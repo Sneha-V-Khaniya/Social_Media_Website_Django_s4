@@ -6,6 +6,6 @@ in this website,
 * like their post and also
 * comment on it.
 
-- made using Django framework of python.
+> made using Django framework of python.
 
-to run this, ** python manage.py runserver ** run command on terminal.
+to run this, **python manage.py runserver** run command on terminal.
